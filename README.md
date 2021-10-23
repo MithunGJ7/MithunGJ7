@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi👋, I'm Mithun G</h1>
+<h3 align="center">A passionate Data Science Developer from India</h3>
 
-<!--
-**MithunGJ7/MithunGJ7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently pursuing my **4nd year Bachelor's Information Technology degree** in CSI College Of Engineering, Ketti.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Deep Learning** and **Power BI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Power BI and Crytograpgy**.
+
+- 📫 How to reach me <a href="mailto:joshuamithun28@gmail.com">Gmail</a>.
+
+- 😄 Pronouns: **He/His**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mithun-joshua-b48240193/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mj__joshua__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40" /></a>
+<a href="https://leetcode.com/joshuamithun28/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="40" /></a>
+<a href="https://twitter.com/MithunJoshuaMJ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/c.svg" alt="C" width="40" height="40"/> </a> 
+<a href="https://isocpp.org/" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg" alt="C++" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/PowerBI.svg" alt="Power BI" width="40" height="40"/> </a>
+</p>
