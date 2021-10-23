@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently pursuing my **4nd year Bachelor's Information Technology degree** in CSI College Of Engineering, Ketti.
 
+<img align="right" height="300" width="425" alt="" src="https://raw.githubusercontent.com/rtewari056/rtewari056/master/coder.gif" />
+
 - 🌱 I’m currently learning **Deep Learning** and **Power BI**.
 
 - 💬 Ask me about **Power BI and Crytograpgy**.
