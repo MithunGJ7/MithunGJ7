@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Mithun G</h1>
 <h3 align="center">A passionate Data Science Developer from India</h3>
 
-- 🔭 I’m currently pursuing my **4nd year Bachelor's Information Technology degree** in CSI College Of Engineering, Ketti.
+- 🔭 I’m currently pursuing my **4th year Bachelor's Information Technology degree** in CSI College Of Engineering, Ketti.
 
 <img align="right" height="300" width="425" alt="" src="https://raw.githubusercontent.com/rtewari056/rtewari056/master/coder.gif" />
 
